@@ -17,8 +17,3 @@
 </main>
 
 <?php get_footer(); ?>
-
-<script>
-    // alert("hellow");
-    // console.log("World");
-</script>;
